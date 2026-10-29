@@ -1,0 +1,4 @@
+interface:
+  display_name: "깊게"
+  short_description: "전문가 관점·원자료·방법론·검증·완료 기준을 먼저 답하고 프롬프트를 다시 써서 작업합니다"
+  default_prompt: "Use $깊게 to answer the 5 pre-questions, rewrite my original request into a deeper prompt, then execute it and run the verification."
